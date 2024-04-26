@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=hojun9393's&nbsp;Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ### Hi there 👋
-#### 안녕하세요! 꾸준히 노력하며 성장하는 자바 웹 어플리케이션 개발자 임호준입니다.
+#### 안녕하세요! 노력하며 성장하는 자바 웹 어플리케이션 개발자 임호준입니다.
 
 <!--
 **hojun9393/hojun9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
