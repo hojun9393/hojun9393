@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+안녕하세요! 꾸준히 성장하기 위해 노력하는 자바 백엔드 개발자 임호준입니다.
+
 <!--
 **hojun9393/hojun9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
