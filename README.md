@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=hojun's&nbsp;Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=hojun's&nbsp;GitHub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ### Hi there 👋
 #### 안녕하세요! 노력하고 성장하는 자바 웹 어플리케이션 개발자 임호준입니다.
