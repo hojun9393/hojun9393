@@ -37,16 +37,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-891B26?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <br>
+
+  <!-- view template -->
+  <img src="https://img.shields.io/badge/JSP-F68D2E?style=for-the-badge&logo=JSP&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"> <br>
 
   <!-- db -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br>
 
   <!-- etc -->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/aws Ec2-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/aws Ec2-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <br>
   
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
