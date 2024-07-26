@@ -35,16 +35,15 @@ Here are some ideas to get you started:
  
   <!-- backend -->
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=white"> 
   <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Querydsl-4695EB?style=for-the-badge&logo=java&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Querydsl-4695EB?style=for-the-badge&logo=java&logoColor=white"> -->
   <img src="https://img.shields.io/badge/MyBatis-891B26?style=for-the-badge&logo=Spring&logoColor=white"> <br>
 
   <!-- view template -->
-
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-F68D2E?style=for-the-badge&logo=JSP&logoColor=white"> <br>
 
