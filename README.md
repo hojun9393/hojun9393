@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=hojun's&nbsp;GitHub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ### Hi there 👋
-#### 안녕하세요! 노력하며 성장하는 자바 웹 어플리케이션 개발자 임호준입니다.
+#### 안녕하세요! 노력하며 성장하는 웹 애플리케이션 개발자 임호준입니다.
 <br>
 
 
@@ -34,28 +34,35 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <br>
  
   <!-- backend -->
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=white"> 
+
+  <img src="https://img.shields.io/badge/jpa-007396?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Querydsl-4695EB?style=for-the-badge&logo=java&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/MyBatis-891B26?style=for-the-badge&logo=Spring&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/MyBatis-891B26?style=for-the-badge&logo=thunderbird&logoColor=white"> <br>
 
   <!-- view template -->
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-F68D2E?style=for-the-badge&logo=JSP&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/jsp-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <br>
 
   <!-- db -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
+  <!-- Web Server -->
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <br>
+ 
   <!-- etc -->
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/aws Ec2-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <br>
-  
+
+  <!-- ide -->
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=viaplay&logoColor=white">
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 </div>
 
