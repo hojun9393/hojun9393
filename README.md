@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <br>
 
-  <img src="https://img.shields.io/badge/jpa-007396?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/jpa(hibernate)-007396?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/Querydsl-4695EB?style=for-the-badge&logo=java&logoColor=white"> -->
   <img src="https://img.shields.io/badge/MyBatis-891B26?style=for-the-badge&logo=thunderbird&logoColor=white"> <br>
